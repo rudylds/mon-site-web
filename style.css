@@ -326,6 +326,23 @@ h1 {
   color: var(--accent);
 }
 
+/* ── Contact ── */
+.contact {
+  padding: 5rem 2rem;
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.contact-inner {
+  text-align: center;
+}
+
+.contact-text {
+  color: var(--muted);
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+}
+
 /* ── Footer ── */
 footer {
   background: var(--surface);
